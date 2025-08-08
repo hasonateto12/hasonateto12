@@ -9,7 +9,7 @@ I enjoy creating smart systems, building scalable web applications, and turning 
 - 🔭 Working on: Smart IoT solutions and full-stack web apps
 - 🌱 Learning: Advanced DevOps, Cybersecurity, and MongoDB optimization
 - 💬 Ask me about: IoT, Backend Development, System Architecture, and OOP
-- 📫 Reach me: hassunateto3@gmail.com | [GitHub](https://github.com/hasonateto12)  | [Linkden](www.linkedin.com/in/teto-hassuna-6bbb1a283)
+- 📫 Reach me: hassunateto3@gmail.com | [GitHub](https://github.com/hasonateto12)  | [Linkden](https://www.linkedin.com/in/teto-hassuna-6bbb1a283/)
 - ⚡ Fun fact: I built an escape room controlled entirely via IoT devices
 
 ## 🛠️ Tech Stack
