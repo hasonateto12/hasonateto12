@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Teto (Saedd Hassuna)
-
+# 👋 Hi, I'm Teto
 💻 **Software Engineering Student | IoT Developer | Full-Stack Enthusiast**
 
 I’m passionate about creating **smart systems**, building **scalable applications**, and mastering the **full software development lifecycle**.  
