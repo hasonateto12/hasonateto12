@@ -1,22 +1,24 @@
-# 👋 Hi, I'm [Teto]
+# 👋 Hi, I'm Teto
 
-💻 **Software Engineer** 
+💻 **Software Engineering Student & IoT Developer**  
 
 Welcome to my GitHub profile!  
-I enjoy building scalable software, experimenting with new tech, and turning ideas into reality.
+I enjoy creating smart systems, building scalable web applications, and turning ideas into real projects.
 
 ## 🚀 About Me
-- 🔭 Working on: [Project name or field]
-- 🌱 Learning: [Technology or skill]
-- 💬 Ask me about: [Your specializations]
-- 📫 Reach me: [Your email or LinkedIn]
-- ⚡ Fun fact: [Something interesting about you]
+- 🔭 Working on: Smart IoT solutions and full-stack web apps
+- 🌱 Learning: Advanced DevOps, Cybersecurity, and MongoDB optimization
+- 💬 Ask me about: IoT, Backend Development, System Architecture, and OOP
+- 📫 Reach me: hassunateto3@gmail.com | [GitHub Profile](https://github.com/hasonateto12)
+- ⚡ Fun fact: I built an escape room controlled entirely via IoT devices
 
 ## 🛠️ Tech Stack
-- Languages: Python, JavaScript, C++
-- Frameworks: React, Node.js, Django
-- Databases: MySQL, MongoDB
-- Tools: Git, Docker, VS Code
+- **Languages:** C#, JavaScript, SQL, HTML & CSS, Arduino ,C++, Python
+- **Frameworks & Libraries:** React, Node.js, Express.js
+- **Databases:** SQL Server, MongoDB
+- **Concepts:** DevOps, Cybersecurity, Data Structures, OOP, Systems Analysis, Networking, Software Testing
+- **Tools:** Git, REST APIs, WebStorm, Rider, Visual Studio, Docker
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Teto Hassuna](https://github.com/hasonateto12)
+
