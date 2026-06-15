@@ -137,7 +137,7 @@ IoT-Based Escape Room Automation
 https://github.com/hasonateto12
 
 💼 LinkedIn:
-(Add Your LinkedIn Here)
+([Teto Hassuna](https://www.linkedin.com/in/teto-hassuna-6bbb1a283/))
 
 ---
 
