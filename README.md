@@ -1,199 +1,144 @@
-# SAED HASSUNA (TETO)
+# 👋 Hi, I'm Saed Hassuna (Teto)
 
-### Full-Stack Developer | Software Engineering Student
+### 🚀 Full-Stack Developer | Software Engineering Student | IoT Enthusiast
 
-📍 Israel
-📞 053-828-2629
-📧 [hassunateto3@gmail.com](mailto:hassunateto3@gmail.com)
-💻 GitHub: github.com/hasonateto12
-
----
-
-## PROFESSIONAL SUMMARY
-
-Final-year Software Engineering student at Kinneret College with strong hands-on experience in Full-Stack Development, Backend Systems, Databases, and IoT Solutions.
-
-Experienced in building complete software systems using React, Node.js, Express.js, MySQL, JWT Authentication, REST APIs, and modern development tools.
-
-Developed multiple end-to-end projects including a production-ready Gate Management Platform, IoT Healthcare Monitoring System, and Smart Escape Room Automation Solution.
-
-Passionate about software engineering, scalable architectures, clean code, problem solving, and continuous learning.
-
-Seeking a Student Software Developer / Full-Stack Developer position where I can contribute to real-world products while continuing to grow professionally.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;React+%7C+Node.js+%7C+MySQL;Software+Engineering+Student;IoT+Developer;Always+Learning+New+Technologies&center=true&width=700&height=50">
+</p>
 
 ---
 
-## EDUCATION
+## 👨‍💻 About Me
 
-### Kinneret College
+I'm a final-year Software Engineering student at Kinneret College with a passion for building scalable web applications, backend systems, and IoT solutions.
 
-**Practical Software Engineering**
-2022 – 2026
+I enjoy transforming ideas into real-world products using modern technologies and clean software architecture.
 
-Relevant Areas:
+Currently focused on:
 
-* Object-Oriented Programming (OOP)
-* Data Structures & Algorithms
-* Software Engineering
-* Database Design
-* Networking
-* Cybersecurity
-* Systems Analysis
-* Software Testing
+* 🚀 Full-Stack Development
+* ⚙️ Backend Engineering
+* 🌐 Web Applications
+* 📡 IoT Systems
+* 🔐 Cybersecurity
+* ☁️ Cloud Technologies
 
 ---
 
-## TECHNICAL SKILLS
+## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
-* C#
-* JavaScript
-* SQL
-* Python
-* C++ (Arduino)
-* HTML5
-* CSS3
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
 
-### Frontend
+### 🎨 Frontend
 
-* React
-* Vite
-* Material UI
-* Axios
-* React Router
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge\&logo=mui)
 
-### Backend
+### ⚙️ Backend
 
-* Node.js
-* Express.js
-* REST APIs
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
+
+### 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
+
+---
+
+# 🏆 Featured Projects
+
+## 🚗 Gate Manager
+
+Full-Stack Smart Gate Management System
+
+### Features
+
 * JWT Authentication
-* Middleware Development
+* Role Based Authorization
+* Vehicle Management
+* Entry Requests Workflow
+* Entry Logs Tracking
+* Dashboard Analytics
 * Swagger API Documentation
-
-### Databases
-
-* MySQL
-* SQL Server
-* MongoDB
-
-### Tools & Technologies
-
-* Git
-* GitHub
-* Docker
-* Postman
-* WebStorm
-* Visual Studio
-* Rider
+* React + Node.js + MySQL
 
 ---
 
-## PROFESSIONAL PROJECTS
+## ❤️ Smart Blood Pressure Monitoring
 
-### Gate Manager – Smart Gate Management System
+IoT Healthcare Monitoring Platform
 
-A complete Full-Stack platform for managing industrial gate access and vehicle authorization workflows.
+### Features
 
-Responsibilities & Features:
-
-* Designed and developed full system architecture
-* Built secure authentication using JWT
-* Implemented Role-Based Access Control
-* Developed REST APIs using Node.js and Express
-* Designed relational database using MySQL
-* Created responsive React administration dashboard
-* Built guard workflow for vehicle entry/exit management
-* Integrated Swagger documentation
-* Implemented security middleware and rate limiting
-* Managed source control using Git & GitHub
-
-Technologies:
-
-React • Node.js • Express • MySQL • JWT • Swagger • Docker • Git
+* Real-Time Monitoring
+* Anomaly Detection
+* Historical Data Analysis
+* Smart Alerts
+* Dashboard Reporting
 
 ---
 
-### Smart Blood Pressure Monitoring System
+## 🔐 Smart Escape Room
 
-IoT-based healthcare monitoring platform designed to track blood pressure and heart-rate measurements in real time.
+IoT-Based Escape Room Automation
 
-Features:
+### Features
 
-* Real-time monitoring
-* Historical data tracking
-* Anomaly detection
-* Automated alerts
-* Dashboard reporting
-
-Technologies:
-
-React • Node.js • SQL • IoT
+* ESP8266 Controllers
+* Wireless Communication
+* Smart Sensors
+* Automation Logic
+* Web Management Interface
 
 ---
 
-### Smart Escape Room Automation System
+# 📊 GitHub Statistics
 
-Smart IoT escape room platform using ESP8266 controllers, sensors, wireless communication, and automation logic.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasonateto12\&show_icons=true\&theme=tokyonight)
 
-Features:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasonateto12\&layout=compact\&theme=tokyonight)
 
-* Sensor integration
-* Wireless communication
-* Smart lock automation
-* Puzzle control system
-* Web-based management interface
-
-Technologies:
-
-ESP8266 • Arduino C++ • Sensors • Automation
+![GitHub Streak](https://streak-stats.demolab.com?user=hasonateto12\&theme=tokyonight)
 
 ---
 
-## GITHUB PROJECTS
+# 🎯 2026 Goals
 
-GitHub Portfolio:
-
-github.com/hasonateto12
-
-Highlighted Repositories:
-
-* Gate Manager
-* Smart Blood Pressure Monitoring
-* Smart Escape Room
+* ☁️ Master Cloud Platforms (AWS & Azure)
+* 🔐 Advance Cybersecurity Knowledge
+* 🚀 Build Production-Level Applications
+* 🌍 Contribute to Open Source
+* 💼 Secure a Software Development Position
 
 ---
 
-## LANGUAGES
+# 📫 Connect With Me
 
-Arabic — Native
+📧 Email: [hassunateto3@gmail.com](mailto:hassunateto3@gmail.com)
 
-Hebrew — Native
+💻 GitHub:
+https://github.com/hasonateto12
 
-English — Professional Working Proficiency
-
----
-
-## STRENGTHS
-
-* Fast Learner
-* Problem Solver
-* Team Player
-* Self-Motivated
-* Strong Analytical Thinking
-* Full Software Development Lifecycle Understanding
-* Clean Code Practices
+💼 LinkedIn:
+(Add Your LinkedIn Here)
 
 ---
 
-## AVAILABILITY
-
-Available for:
-
-* Student Developer Positions
-* Junior Full-Stack Developer Roles
-* Junior Backend Developer Roles
-* Software Development Internships
-
-Available Full-Time During Semester Breaks.
+⭐ Always learning, always building, always improving.
